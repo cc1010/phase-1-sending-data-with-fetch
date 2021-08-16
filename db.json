@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,40 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "chai",
+      "dogBreed": "cha",
+      "id": 3
+    },
+    {
+      "dogName": "chai",
+      "dogBreed": "cha",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +53,387 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 1
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 2
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 3
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 4
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 5
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 6
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 7
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 8
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 9
+    },
+    {
+      "userName": "chaim",
+      "userEmail": "Chaim@g",
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 21
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 24
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 27
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 28
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 29
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "name": "ccc",
+      "email": "gggg",
+      "id": 32
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 33
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 34
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 35
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 36
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 37
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 38
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 39
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 40
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 41
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 42
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 43
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 44
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 45
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 46
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 47
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 48
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 49
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 50
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 51
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 52
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 53
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 54
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 55
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 56
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 57
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 58
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 59
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 60
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 61
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 62
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 63
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 64
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 65
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 66
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 67
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 68
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 69
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 70
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 71
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 72
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 73
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 74
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 75
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 76
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 77
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 78
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 79
+    },
+    {
+      "name": "chaim",
+      "email": "gmail",
+      "id": 80
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
